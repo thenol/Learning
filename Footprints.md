@@ -204,3 +204,7 @@
     * alg:didi面试（out）
     * ml:
         * z-score: 数据标准化$\frac{x-μ}{\sigma}$，就是将不同量级的数据统一转化为同一个量级，统一用计算出的Z-Score值衡量，以保证数据之间的可比性
+* 【7/30 2020】
+    * alg: 
+        * <input type='checkbox'><a href='https://leetcode-cn.com/problems/integer-break/'>343. Integer Break</a>
+        * 
